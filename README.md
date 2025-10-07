@@ -1,14 +1,11 @@
-# Ibraheem.github.io
-Software Development Assignment 
-# My Portfolio
+# Welcome to Ibraheem's Homepage
+I am an instructor at Qassim University in Saudi Arabia. 
+Now I am a PhD student in computer science at North Dakota State University.
 
-Live site: https://<your-username>.github.io/
+My research interests:
+- Distributed Systems and Operating Systems.
+- Neural Networks (Machine Learning) 
+- AI and IoT 
 
-## What this is
-A simple portfolio site to showcase projects, notes, and assignments.
 
-## How to run locally
-Open `index.html` in a browser (or use a static server).
 
-## Screenshot
-(Add an image later or link)
